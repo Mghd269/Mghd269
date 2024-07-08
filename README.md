@@ -1,6 +1,3 @@
-Oto tytułowa strona Twojego GitHuba przetłumaczona na angielski, z dodaną sekcją projektów i emoji:
-
-```markdown
 # Michał Głąb
 
 ## About Me
