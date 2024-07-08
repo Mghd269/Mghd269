@@ -23,8 +23,3 @@
 - 💪 Gym
 - 🥋 Martial Arts
 - 🤖 Artificial Intelligence
-
-```
-
-Możesz skopiować powyższy kod i wkleić go do pliku `README.md` w swoim repozytorium na GitHubie. Jeśli masz więcej projektów, które chciałbyś dodać, podaj ich szczegóły, a zaktualizuję listę!
-
